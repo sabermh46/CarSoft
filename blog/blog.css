@@ -29,12 +29,12 @@
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=62)";
     margin: 5px 0 20px 0;
 }
-.blog-image {
+.blog_image {
     width: 100%;
     aspect-ratio: 2.124;
     background: url('../pic/pic1.png');
     background-size: cover;
-    background-position: 100% 50%;
+    background-position: 50% 50%;
     border-radius: 5px;
 }
 .blog-text {
@@ -130,7 +130,7 @@
         height:100px;
     }
     .navigation .brand {
-        font-size: 25px !important;
+        font-size: 22px !important;
     }
     .blog1 {
         width: 90% !important;
